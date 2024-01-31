@@ -45,9 +45,9 @@
 <br>
                                                                  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EnzoNina&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EnzoNina&theme=dark&hide_border=false)<br/>
 <div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoNina&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoNina&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNina&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
