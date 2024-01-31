@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Nina</h1>
-<h3 align="center">A passionate backend developer from Peru</h3>
+<h3 align="center">Desarrollador Backend de Perú</h3>
 # 💫 Acerca de mi:
 🔭 Actualmente Trabajando En<br>Explorando características avanzadas de Spring Boot y mejorando mis habilidades en desarrollo web.<br>👯 Busco Colaborar En<br>Proyectos relacionados con el desarrollo web en Java, Spring Boot o cualquier iniciativa emocionante de código abierto.<br>🤝 Busco Ayuda Con<br>Consejos y mejores prácticas en el desarrollo backend, especialmente en Java y Spring Boot.<br>🌱 Actualmente Aprendiendo<br>Adentrándome en la arquitectura de microservicios y perfeccionando mis habilidades en la gestión de bases de datos.<br>💬 Pregúntame Sobre<br>Cualquier cosa relacionada con la programación en Java, desarrollo web o mi experiencia con Spring Boot.
 
