@@ -21,6 +21,9 @@
 <a href="https://github.com/EnzoNina/codeKion-MarketPlace" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://codekionproyect-a04656714bdd.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20P%C3%A1gina%20Web-f321?style=for-the-badge&logo=link&logoColor=black%22">
+</a>
 </p>
 <p>CodeKion Marketplace es una plataforma dinámica creada como un Marketplace para Proyectos de Ciencia Abierta. Desarrollado con Spring Boot y Thymeleaf, este proyecto facilita el entorno colaborativo esencial para avanzar en la investigación científica. Los usuarios pueden crear proyectos científicos, buscar colaboradores, explorar proyectos existentes e invitar a posibles contribuyentes.</p>
 </div>
